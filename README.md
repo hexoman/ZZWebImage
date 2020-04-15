@@ -22,8 +22,8 @@ imageView.setImage(url, placeholder: UIImage.init(named: "test.png"))
 ```
 
 ### 待完成...
-- [x]支持jpg、gif、webp等图片格式
-- [x]imageView扩展增加loading状态
-- [x]支持取消正在进行的下载任务
-- [x]支持下载的图片自适应view的size
+- [x] 支持jpg、gif、webp等图片格式
+- [x] imageView扩展增加loading状态
+- [x] 支持取消正在进行的下载任务
+- [x] 支持下载的图片自适应view的size
 
