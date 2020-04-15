@@ -3,7 +3,7 @@
 
 该项目目前只是初步实现了并发加载和缓存、过期失效等基础功能。
 
-![Image text](https://github.com/hexoman/imageFloder/blob/master/webImage.png)
+![Image text](https://github.com/hexoman/imageFloder/blob/master/webimage.png)
 
 - [x] 支持在线加载
 - [x] 支持内存缓存和磁盘缓存
