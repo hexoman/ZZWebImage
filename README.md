@@ -1,7 +1,9 @@
 # ZZWebImage
 ### 一个swift写的在线图片异步加载并缓存的轮子
 
-iOS图片异步加载框架首推onevcat的[Kingfisher](https://github.com/onevcat/Kingfisher)。该项目目前只是初步实现了并发加载和缓存、过期失效等基础功能。
+该项目目前只是初步实现了并发加载和缓存、过期失效等基础功能。
+
+![Image text](https://github.com/hexoman/imageFloder/blob/master/webImage.png)
 
 - [x] 支持在线加载
 - [x] 支持内存缓存和磁盘缓存
