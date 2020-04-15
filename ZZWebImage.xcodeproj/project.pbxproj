@@ -23,6 +23,7 @@
 		DBBA248C2442EA4300C93BD6 /* MemoryStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBA248B2442EA4300C93BD6 /* MemoryStorage.swift */; };
 		DBBA24952442EE8700C93BD6 /* Global.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBA24942442EE8700C93BD6 /* Global.swift */; };
 		DBBA24972442EE9200C93BD6 /* ImageError.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBA24962442EE9200C93BD6 /* ImageError.swift */; };
+		DBEBE6782446A14F0067A3CA /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBEBE6772446A14F0067A3CA /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		DBBA248B2442EA4300C93BD6 /* MemoryStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryStorage.swift; sourceTree = "<group>"; };
 		DBBA24942442EE8700C93BD6 /* Global.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Global.swift; sourceTree = "<group>"; };
 		DBBA24962442EE9200C93BD6 /* ImageError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageError.swift; sourceTree = "<group>"; };
+		DBEBE6772446A14F0067A3CA /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				DBBA24602442E9C500C93BD6 /* AppDelegate.swift */,
 				DBBA24622442E9C500C93BD6 /* SceneDelegate.swift */,
 				DBBA24642442E9C500C93BD6 /* ViewController.swift */,
+				DBEBE6772446A14F0067A3CA /* CollectionViewCell.swift */,
 				DBBA24662442E9C500C93BD6 /* Main.storyboard */,
 				DBBA24692442E9C700C93BD6 /* Assets.xcassets */,
 				DBBA246B2442E9C700C93BD6 /* LaunchScreen.storyboard */,
@@ -275,6 +278,7 @@
 				DB04ACCE2444055E00F5F889 /* WebImageView.swift in Sources */,
 				DBBA248C2442EA4300C93BD6 /* MemoryStorage.swift in Sources */,
 				DBBA24632442E9C500C93BD6 /* SceneDelegate.swift in Sources */,
+				DBEBE6782446A14F0067A3CA /* CollectionViewCell.swift in Sources */,
 				DBBA24842442EA0500C93BD6 /* ImageManager.swift in Sources */,
 				DBBA24882442EA1C00C93BD6 /* Storage.swift in Sources */,
 				DBBA24972442EE9200C93BD6 /* ImageError.swift in Sources */,

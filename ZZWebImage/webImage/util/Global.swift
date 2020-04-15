@@ -12,7 +12,6 @@ import Foundation
 let imageFile = "ImageBundle"
 
 /// 图片有效缓存日期
-let cacheExpriedTime = 60
-//    * 60 * 24 * 7
+let cacheExpriedTime = 60 * 60 * 24 * 7
 
 
